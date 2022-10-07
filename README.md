@@ -3,7 +3,7 @@ Classification of Urban Sounds dataset with CNN
 
 
 # Dataset Information
-=========----========
+=================
 
 
 UrbanSound8K
